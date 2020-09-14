@@ -30,7 +30,7 @@
 - Ecuación de un plano: https://www.youtube.com/watch?v=FUdihyhQfOs
 - Calculus cheat: http://cms.ysu.edu/sites/default/files/documents/mathematics-assistance-center/Calculus%203_Cheat_Sheet_Reduced.pdf
 - calculate arbitrary points from a plane equation: https://math.stackexchange.com/questions/1755856/calculate-arbitrary-points-from-a-plane-equation
-- 101. Distance from a point to a plane, DEMONSTRATION of formula | Vector calculus: https://www.youtube.com/watch?v=7S6ouCWUorU
+- Distance from a point to a plane, DEMONSTRATION of formula | Vector calculus: https://www.youtube.com/watch?v=7S6ouCWUorU
 - Point-Plane Distance: https://mathworld.wolfram.com/Point-PlaneDistance.html
 - Point-Line Distance--2-Dimensional: https://mathworld.wolfram.com/Point-LineDistance2-Dimensional.html
 - Planes and Hyperplanes: http://faculty.bard.edu/belk/math213/PlanesAndHyperplanes.pdf
