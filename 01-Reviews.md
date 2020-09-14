@@ -15,6 +15,26 @@
 - Desmos, intoduce derivates: https://www.youtube.com/watch?v=CZA-4MaydPI
 - Ecuación diferencial: https://www.youtube.com/watch?v=q3PKNySW6LQ&t=666s
 
+## Points and Vectors
+- Angulo entre dos vectores | Ejemplo 1: https://www.youtube.com/watch?v=gRIimumXW2w
+- https://calculo.cc/temas/temas_trigonometria/trigonometria/imagenes/teoria/medida/equivalencia_2.gif
+- https://www.matesfacil.com/calculadoras/conversion/grados/G1.png
+- Dot products and duality | Essence of linear algebra, chapter 9: https://www.youtube.com/watch?v=LyGKycYT2v0
+- Dot Products and Projections: http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/dotprod/dotprod.html
+- Proyección de un vector sobre otro vector: https://ekuatio.com/proyeccion-de-un-vector-sobre-otro-vector-ejercicios-resueltos/
+- Vector unitario: https://www.youtube.com/watch?v=_0iLbIf9D7w
+- Vector proyección: https://en.wikipedia.org/wiki/Vector_projection
+- 37. Projections and vector components: https://www.youtube.com/watch?v=99ToTe0fGUs
+
+## Planes
+- Ecuación de un plano: https://www.youtube.com/watch?v=FUdihyhQfOs
+- Calculus cheat: http://cms.ysu.edu/sites/default/files/documents/mathematics-assistance-center/Calculus%203_Cheat_Sheet_Reduced.pdf
+- calculate arbitrary points from a plane equation: https://math.stackexchange.com/questions/1755856/calculate-arbitrary-points-from-a-plane-equation
+- 101. Distance from a point to a plane, DEMONSTRATION of formula | Vector calculus: https://www.youtube.com/watch?v=7S6ouCWUorU
+- Point-Plane Distance: https://mathworld.wolfram.com/Point-PlaneDistance.html
+- Point-Line Distance--2-Dimensional: https://mathworld.wolfram.com/Point-LineDistance2-Dimensional.html
+- Planes and Hyperplanes: http://faculty.bard.edu/belk/math213/PlanesAndHyperplanes.pdf
+
 ### + Resources:
 * Grafica: https://www.desmos.com/calculator/dmpvyeujzb
 * knowledgebase: https://www.wolframalpha.com/
