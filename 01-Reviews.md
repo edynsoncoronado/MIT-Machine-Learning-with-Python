@@ -35,6 +35,28 @@
 - Point-Line Distance--2-Dimensional: https://mathworld.wolfram.com/Point-LineDistance2-Dimensional.html
 - Planes and Hyperplanes: http://faculty.bard.edu/belk/math213/PlanesAndHyperplanes.pdf
 
+## Probability Density Functions
+- Qué es la función de densidad: https://www.youtube.com/watch?v=Q6ZbpyU1OYw
+- Función de densidad de probabilidad de una variable aleatoria continua | Intro y ejercicio 1: https://www.youtube.com/watch?v=2gI8Ri792ig
+
+## Univariate Gaussians
+- Calculator: http://onlinestatbook.com/2/calculators/normal_dist.html
+- Cálculo de la distribución normal entre dos valores.: https://www.youtube.com/watch?v=BqMlSse6ebY
+- Calcular la PROBABILIDAD de una DISTRIBUCIÓN NORMAL - problema 1: https://www.youtube.com/watch?v=5q5UOSGzPmw
+- 03 Distribución Normal N(0,1): https://www.youtube.com/watch?v=97EI9mS0WS8
+- Varianza y Desviación Estándar: https://www.disfrutalasmatematicas.com/datos/desviacion-estandar.html
+
+## Matrices and Vectors
+- Rango de una Matriz | Introducción: https://www.youtube.com/watch?v=klCbWxqlXRo
+- Multiplicación de Matrices de Orden 3x3 y 3x1: https://www.youtube.com/watch?v=09-Ybrkwzgk
+- Matriz inversa: https://www.ieszaframagon.com/matematicas/matematicas2/algebra/3_matriz_inversa.html
+- calculator: https://matrixcalc.org/es/
+
+## Linear Independence, Subspaces and Dimension
+- Matriz traspuesta: https://www.youtube.com/watch?v=aTsgBk34zyY
+- 05. Dot product, vector row, line, column, properties and DEMONSTRATION | Linear Algebra: https://www.youtube.com/watch?v=7qhyH6rxntE
+- Rango de una Matriz | Introducción: https://www.youtube.com/watch?v=klCbWxqlXRo
+
 ### + Resources:
 * Grafica: https://www.desmos.com/calculator/dmpvyeujzb
 * knowledgebase: https://www.wolframalpha.com/
