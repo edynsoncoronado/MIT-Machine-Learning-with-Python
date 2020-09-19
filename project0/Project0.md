@@ -7,9 +7,9 @@
 - PyTorch (https://pytorch.org/)
 
 ### Installation using pip
-conda install pytorch -c pytorch
-pip3 install numpy
-pip3 install matplotlib
-pip3 install scipy
-pip3 install tqdm
-pip3 install scikit-learn
+conda install pytorch -c pytorch  
+pip3 install numpy  
+pip3 install matplotlib  
+pip3 install scipy  
+pip3 install tqdm  
+pip3 install scikit-learn  
