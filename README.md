@@ -31,9 +31,10 @@ Start wherever interests you most and follow it. If it leads to a dead end, grea
 Computers are smart but they still can’t learn on their own. They need your help.
 
 ### Step1
-docker run --name MIT-ML-Python -v $(pwd):/opt/notebooks -i -t -p 8883:8888 continuumio/anaconda3 /bin/bash -c "/opt/c
-onda/bin/conda install jupyter -y --quiet && /opt/conda/bin/jupyter notebook --notebook-dir=/opt/notebooks --ip='0.0.0.0' --port=8888 --no-browser --allow-root"
+docker run --name MIT-ML-Python -v $(pwd):/opt/notebooks -i -t -p 8883:8888 continuumio/anaconda3 /bin/bash -c "/opt/conda/bin/conda install jupyter -y --quiet && /opt/conda/bin/jupyter notebook --notebook-dir=/opt/notebooks --ip='0.0.0.0' --port=8888 --no-browser --allow-root"
 
 Links:
 - https://towardsdatascience.com/i-want-to-learn-artificial-intelligence-and-machine-learning-where-can-i-start-7a392a3086ec
 - http://www.fast.ai/2018/07/12/auto-ml-1/
+- https://en.wikibooks.org/wiki/LaTeX/Mathematics
+- https://nbviewer.jupyter.org/github/twistedhardware/mltutorial/blob/master/notebooks/jupyter/2.%20Markdown%20%26%20LaTeX.ipynb
